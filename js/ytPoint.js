@@ -67,7 +67,7 @@ var ytPoint = (function () {
 
 			s.frameIndex = 0;
 console.log(s.num);
-      if(s.num==10){
+      if(s.num==1000){
           
           alert("CLUE-In Which Year did Dr. APJ ABDUL KALAM Visited Our College?");
           location.replace("https://sid-2001.github.io/tresure/");
