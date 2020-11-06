@@ -70,7 +70,7 @@ console.log(s.num);
       if(s.num==200){
           
           alert("CLUE-In Which Year did Dr. APJ ABDUL KALAM Visited Our College?");
-          location.replace("https://sid-2001.github.io/tresure/");
+          location.replace("https://prashant0829.github.io/VTH-Game-Clue-1/");
          
           
       }
